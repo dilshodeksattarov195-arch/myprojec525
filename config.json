@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingpelete",
+        "uuid": 4263000,
+        "checksum": "lcwa4a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
